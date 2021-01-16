@@ -1,0 +1,10 @@
+cloud:
+    aws:
+        region:
+            static: us-east-1
+        stack:
+            auto: false # disable AWS Cloudformation config gathering
+
+app:
+    sns:
+        topic: Flyers-Auto-SMS
