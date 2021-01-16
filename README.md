@@ -1,7 +1,7 @@
 # Flyers-Auto-SMS
 AWS SNS program to automatically notify subscribers for Flyers games
 
-###Table of Contents
+### Table of Contents
 1. [Installation](#Installation)
 2. [Components](#Components)
 3. [Features](#Features)
