@@ -5,7 +5,7 @@ AWS SNS program to automatically notify subscribers for Flyers games
 1. [Installation](#Installation)
 2. [Components](#Components)
 3. [Features](#Features)
-4. [Related Repositories](#Related Repositories)
+4. [Related-Repositories](#Related-Repositories)
 
 ### **Installation**
 Clone the repository
@@ -37,7 +37,7 @@ $ mvn spring-boot run
 - Within 15 minutes of a Flyers game for the 2020 season, the app will send out a message such as this:
 ![image](documentation/images/text.jpeg)
 
-### **Related Repositories**
+### **Related-Repositories**
 - This application was built with some modified files originally in my own repository:
   - [Web-App-Resume](https://github.com/connellboyce/Web-App-Resume)
 - Both of these apps used a publicly available repository as a way to learn the workings of AWS SNS.
